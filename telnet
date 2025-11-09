@@ -2,3 +2,10 @@ sudo apt-get install telnetd
 
 telnet 122.175.140.221
 
+pwd
+
+ls
+
+whoami
+
+
