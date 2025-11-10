@@ -1,0 +1,38 @@
+traceroute google.com
+
+nslookup google.com
+
+nslookup microsoft.com
+
+nslookup -type=ns microsoft.com
+
+ping google.com
+
+ping 192.168.2.233
+
+arp -a
+
+ping 192.168.2.159
+
+netstat -a
+
+netstat -at
+
+netstat-au
+
+netstat -l
+
+netstat -lt
+
+netstat -lx
+
+netstat -r
+
+ifconfig
+
+ifconfig -a
+
+ifconfig eth0
+
+
+
